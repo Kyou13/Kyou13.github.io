@@ -1,7 +1,7 @@
 // 背景
 $('#bg').particleground({ //要素の指定
-    dotColor:  '#7dfcfd', //ドットの色
-    lineColor: '#7dfcfd',
+    dotColor:  '#7B68EE', //ドットの色
+    lineColor: '#7B68EE',
     density: 6500,
     minSpeedX: 0.2,
     particleRadius: 5,
