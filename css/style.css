@@ -73,19 +73,27 @@ header{
   right: 0;
   width: 100%;
   margin-left: 0px;
-  margin-bottom: 13%;
+  margin-bottom: 10%;
 }
 
-@media only screen and (max-device-width: 480px){
-  .header-info{
-  margin-bottom: 60%;
-  }
-}
 .content-header{
   text-align:center;
   background-color: rgba(255,255,255,0.8);
   margin-top: 50px;
   padding: 10px;
+}
+@media only screen and (max-device-width: 480px){
+  .header-info{
+  margin-bottom: 60%;
+  }
+}
+@media only screen and (max-device-width: 667px){
+  .header-info{
+  margin-bottom: 4%;
+  }
+.content-header{
+  margin-top: 20px;
+}
 }
 .content-header p span{
   color: #7B68EE;
