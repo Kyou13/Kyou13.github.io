@@ -113,6 +113,9 @@ small{
 small p{
   font-family: 'Montserrat', sans-serif;
 }
+footer .col-sm-4{
+  text-align:right;
+}
 
 #about{
   
