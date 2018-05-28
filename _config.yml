@@ -1,4 +1,2 @@
 plugins:
     - jekyll-seo-tag
-      
-exclude: [vendor]
