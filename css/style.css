@@ -136,7 +136,7 @@ footer .col-sm-4{
   padding: 20px 20px;
 }
 .content-about p:nth-child(n+2){
-  margin-top: 1.5em;
+  margin-top: 1.2em;
 }
 .detail-about{
   font-size: 15px;
@@ -166,5 +166,5 @@ footer .col-sm-4{
 .sub-title{
   font-size: 22px;
   border-bottom: 2px solid #000;
-  margin-top: 10px;
+  margin-top: 25px;
 }
